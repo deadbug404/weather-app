@@ -1,1 +1,3 @@
-# weather-app
+# Weather App 
+
+The app was made using the api of Visual Crossing to show the weather of a specific city. Dynamic import with webpack was also used to show different icons and background images relative to the current temperature of the city to avoid importing all the images one by one if its not needed and reduce the initial payload of the script. Async and Await was also used for asynchronous code blocks because its a syntactic sugar for Promises which makes it easier to follow what the code is doing.
